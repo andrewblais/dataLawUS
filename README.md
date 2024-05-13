@@ -1,12 +1,14 @@
 # **_dataLawUS_**
 
+#### **_[GitHub link](https://github.com/andrewblais/dataLawUS)_**
+
 A Python Jupyter Notebook project whose structure was created by Angela Yu and which I completed for Professional Portfolio Project: Assignment 19: [Angela Yu 100 Days of Code](https://www.udemy.com/course/100-days-of-code/) -- "Data Science: Analyse Deaths involving Police in the United States".
 
 Lots of Pandas/NumPy and plotting challenges curated by Angela Yu.
 
 This project required a lot of attention to detail regarding data transformation and DataFrame/Series manipulation with many different Pandas functions.
 
-_[MIT License](https://github.com/andrewblais/spaceTechAnalysis/blob/main/LICENSE): Copyright (c) 2024- Andrew Blais_
+_[MIT License](https://github.com/andrewblais/dataLawUS/blob/main/LICENSE): Copyright (c) 2024- Andrew Blais_
 
 This is the FINAL project in Angela Yu's 100 Day's course.
 
